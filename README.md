@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hi, Welcome to my repo👋
 
 <!--
 **veerak2/veerak2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+- 🏫 I am graduate student majoring in Business Analytics at the University of South Florida. And, I am graduating this December! 
+- 💼 I'm currently working part time as a Research Assistant at my University where I am developing a machine learning solution.
+- 🟢 I'm on the lookout for full time opportunities as a Machine Learning Engineer or Data Scientist. 
+- 👮 I'm interested in the applications of machine learning in Cybersecurity. 
+- 📖 I'm currently reading a book on 'Machine Learning & Security' by Clarence Chio & David Freeman.
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
