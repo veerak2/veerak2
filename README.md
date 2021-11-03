@@ -4,7 +4,7 @@
 **veerak2/veerak2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🏫 I'm a graduate student majoring in Business Analytics at the University of South Florida. And, I am **graduating this December**! 
+- 🏫 I'm a graduate student majoring in Business Analytics at the University of South Florida. I am **graduating this December**! 
 - 💼 I'm currently working part time as a Research Assistant at my University where I am developing a machine learning solution.
 - 🟢 I'm **looking out for full time opportunities as a Machine Learning Engineer or Data Scientist**. 
 - 👮 I'm interested in the applications of machine learning in Cybersecurity. 
