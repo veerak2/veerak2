@@ -10,7 +10,7 @@
 - 👮 I'm interested in the applications of machine learning in Cybersecurity. 
 - 📖 I'm currently reading a book on 'Machine Learning & Security' by Clarence Chio & David Freeman.
 
-I am in the process of updating my github repo with my projects and assigments I've worked on as part of my coursework in school.
+I am currently updating my github repo with my latest project. And, also assigments I've worked on as part of my coursework in school.
 
 <!--
 - 🔭 I’m currently working on ...
