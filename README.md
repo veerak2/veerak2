@@ -7,7 +7,6 @@
 - 🏫 I'm a graduate student majoring in Business Analytics at the University of South Florida. I am **graduating this December**! 
 - 💼 Currently working part time as a Graduate Assistant at my University where I am developing a machine learning solution.
 - 🟢 I'm **looking out for full time opportunities as a Machine Learning Engineer or Data Scientist**. 
-- 📖 I'm currently reading a book on 'Machine Learning & Security' by Clarence Chio & David Freeman.
 
 I am currently updating my github repo with my latest project. And, also assigments I've worked on as part of my coursework in school.
 
